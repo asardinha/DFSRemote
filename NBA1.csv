@@ -1,0 +1,330 @@
+Id,Position,First Name,Nickname,Last Name,FPPG,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details,Tier,Max Exposure,Name,Team,Min,Ur,Fd,Value,Name,Fpts,Value
+41866-15557,C,Andre,Andre Drummond,Drummond,56.24,26,9600,DET@BOS,DET,BOS,,,,,Andre Drummond,DET,36.5,27.21,56.24,5.858333333,Andre Drummond,A,A
+41866-49111,C,Joel,Joel Embiid,Embiid,48.74,23,9800,DAL@PHI,PHI,DAL,,,,,Joel Embiid,PHI,33,31.59,48.74,4.973469388,Joel Embiid,A,C
+41866-15595,SG,Bradley,Bradley Beal,Beal,47.9,26,9600,WAS@TOR,WAS,TOR,,,,,Bradley Beal,WAS,37.3,33.18,46.9,4.989583333,Bradley Beal,A,A
+41866-9535,PG,Kyle,Kyle Lowry,Lowry,46.54,16,8300,WAS@TOR,TOR,WAS,,,,,Kyle Lowry,TOR,37.7,25.68,46.54,5.607228916,Kyle Lowry,A,A
+41866-14528,SG,Jimmy,Jimmy Butler,Butler,46.06,24,8900,NY@MIA,MIA,NY,,,,,Jimmy Butler,MIA,35.8,25.54,46.06,5.175280899,Jimmy Butler,A,B
+41866-14507,PG,Kemba,Kemba Walker,Walker,45.56,24,8000,DET@BOS,BOS,DET,,,,,Kemba Walker,BOS,36,28.4,45.56,5.695,Kemba Walker,A,A
+41866-55062,C,Nikola,Nikola Jokic,Jokic,44.71,26,9500,MIN@DEN,DEN,MIN,,,,,Nikola Jokic,DEN,32.5,24.77,44.71,4.706315789,Nikola Jokic,A,B
+41866-80817,PF,Bam,Bam Adebayo,Adebayo,43.56,28,9400,NY@MIA,MIA,NY,,,,,Bam Adebayo,MIA,35,19.53,43.56,4.634042553,Bam Adebayo,B,C
+41866-80808,PF,Jayson,Jayson Tatum,Tatum,42.92,25,7600,DET@BOS,BOS,DET,,,,,Jayson Tatum,BOS,36.5,28.2,42.92,5.647368421,Jayson Tatum,B,B
+41866-12363,C,Hassan,Hassan Whiteside,Whiteside,42.85,25,8900,ORL@POR,POR,ORL,,,,,Hassan Whiteside,POR,32,19.72,42.85,4.814606742,Hassan Whiteside,A,B
+41866-58312,SG,D'Angelo,D'Angelo Russell,Russell,42.83,17,8400,NO@GS,GS,NO,,,,,D'Angelo Russell,GS,32.5,33.59,42.83,5.098809524,D'Angelo Russell,B,C
+41866-20848,PG,Damian,Damian Lillard,Lillard,42.66,26,8800,ORL@POR,POR,ORL,,,,,Damian Lillard,POR,36.3,26.67,42.66,4.847727273,Damian Lillard,A,B
+41866-59358,PF,Domantas,Domantas Sabonis,Sabonis,41.4,26,8300,SAC@IND,IND,SAC,,,,,Domantas Sabonis,IND,34.4,22.33,41.4,4.987951807,Domantas Sabonis,B,B
+41866-9957,PF,Serge,Serge Ibaka,Ibaka,41.04,17,7400,WAS@TOR,TOR,WAS,,,,,Serge Ibaka,TOR,33.2,26.16,41.04,5.545945946,Serge Ibaka,A,A
+41866-66048,SF,Brandon,Brandon Ingram,Ingram,40.73,25,8700,NO@GS,NO,GS,,,,,Brandon Ingram,NO,34.5,29.23,40.73,4.681609195,Brandon Ingram,A,B
+41866-14514,C,Nikola,Nikola Vucevic,Vucevic,40.7,17,7700,ORL@POR,ORL,POR,,,,,Nikola Vucevic,ORL,31.7,24.18,40.7,5.285714286,Nikola Vucevic,B,A
+41866-9663,SG,Jrue,Jrue Holiday,Holiday,40.21,27,8600,NO@GS,NO,GS,,,,,Jrue Holiday,NO,36.1,25.4,40.21,4.675581395,Jrue Holiday,A,B
+41866-66115,PG,Ben,Ben Simmons,Simmons,40.05,27,7900,DAL@PHI,PHI,DAL,,,,,Ben Simmons,PHI,36.6,18.78,40.05,5.069620253,Ben Simmons,B,B
+41866-16359,PG,Malcolm,Malcolm Brogdon,Brogdon,39.92,24,8000,SAC@IND,IND,SAC,,,,,Malcolm Brogdon,IND,34.4,25.11,39.92,4.99,Malcolm Brogdon,B,C
+41866-63122,PF,Kristaps,Kristaps Porzingis,Porzingis,39.9,26,8900,DAL@PHI,DAL,PHI,,,,,Kristaps Porzingis,DAL,34,28.89,39.9,4.483146067,Kristaps Porzingis,A,B
+41866-9623,PG,Chris,Chris Paul,Paul,38.91,27,8100,PHO@OKC,OKC,PHO,,,,,Chris Paul,OKC,33,21.78,38.91,4.803703704,Chris Paul,B,B
+41866-110344,PG,Ja,Ja Morant,Morant,37.38,22,7600,MEM@CLE,MEM,CLE,,,,,JA Morant,MEM,31.6,26.83,37.38,4.918421053,Ja Morant,B,B
+41866-49116,SG,Andrew,Andrew Wiggins,Wiggins,36.78,22,7900,MIN@DEN,MIN,DEN,,,,,Andrew Wiggins,MIN,36.5,29.07,36.78,4.655696203,Andrew Wiggins,B,C
+41866-14518,SF,Tobias,Tobias Harris,Harris,36.73,29,7300,DAL@PHI,PHI,DAL,,,,,Tobias Harris,PHI,35.5,23.96,36.73,5.031506849,Tobias Harris,B,C
+41866-67026,SF,Jaylen,Jaylen Brown,Brown,36.07,22,6800,DET@BOS,BOS,DET,,,,,Jaylen Brown,BOS,35.5,23.01,36.07,5.304411765,Jaylen Brown,B,A
+41866-14496,PG,Ricky,Ricky Rubio,Rubio,35.69,22,7400,PHO@OKC,PHO,OKC,,,,,Ricky Rubio,PHO,33.1,20.94,35.69,4.822972973,Ricky Rubio,B,B
+41866-23169,C,Steven,Steven Adams,Adams,35.3,24,6300,PHO@OKC,OKC,PHO,,,,,Steven Adams,OKC,28.6,17.51,35.3,5.603174603,Steven Adams,B,A
+41866-19067,SG,CJ,CJ McCollum,McCollum,35.06,28,7500,ORL@POR,POR,ORL,,,,,CJ McCollum,POR,36.5,24.13,35.06,4.674666667,CJ McCollum,B,C
+41866-84680,SG,Shai,Shai Gilgeous-Alexander,Gilgeous-Alexander,34.93,27,6700,PHO@OKC,OKC,PHO,,,,,Shai Gilgeous-Alexander,OKC,35.6,24.94,34.93,5.213432836,Shai Gilgeous-Alexander,B,B
+41866-66108,PG,Jamal,Jamal Murray,Murray,34.56,26,6800,MIN@DEN,DEN,MIN,,,,,Jamal Murray,DEN,32.5,24.77,34.56,5.082352941,Jamal Murray,B,B
+41866-9874,PF,Kevin,Kevin Love,Love,34.23,24,6800,MEM@CLE,CLE,MEM,,,,,Kevin Love,CLE,30.8,22.87,34.23,5.033823529,Kevin Love,B,A
+41866-14501,C,Tristan,Tristan Thompson,Thompson,33.62,27,6200,MEM@CLE,CLE,MEM,,,,,Tristan Thompson,CLE,32,19.39,33.62,5.422580645,Tristan Thompson,B,A
+41866-17333,SF,Will,Will Barton,Barton,33.62,24,6400,MIN@DEN,DEN,MIN,,,,,Will Barton,DEN,33.5,19.32,33.62,5.253125,Will Barton,B,B
+41866-42669,PF,Julius,Julius Randle,Randle,33.26,28,6700,NY@MIA,NY,MIA,,,,,Julius Randle,NY,32,26.7,33.26,4.964179104,Julius Randle,B,B
+41866-9475,PG,Derrick,Derrick Rose,Rose,33.22,23,5900,DET@BOS,DET,BOS,,,,,Derrick Rose,DET,28.4,33.26,33.22,5.630508475,Derrick Rose,C,C
+41866-9637,SF,Danilo,Danilo Gallinari,Gallinari,33.04,26,6500,PHO@OKC,OKC,PHO,,,,,Danilo Gallinari,OKC,31.5,24.12,33.04,5.083076923,Danilo Gallinari,B,B
+41866-80811,SF,Jonathan,Jonathan Isaac,Isaac,30.66,26,5600,ORL@POR,ORL,POR,,,,,Jonathan Isaac,ORL,32,17.07,32.66,5.475,Jonathan Isaac,B,A
+41866-80810,PG,De'Aaron,De'Aaron Fox,Fox,32.58,10,6700,SAC@IND,SAC,IND,,,,,De'Aaron Fox,SAC,30.7,27.05,32.58,4.862686567,De'Aaron Fox,C,C
+41866-84690,PG,Jalen,Jalen Brunson,Brunson,32.2,27,5700,DAL@PHI,DAL,PHI,,,,,Jalen Brunson,DAL,32.3,22.92,32.2,5.649122807,Jalen Brunson,B,A
+41866-84683,PF,Jaren,Jaren Jackson,Jackson,32.07,27,6700,MEM@CLE,MEM,CLE,,,,,Jaren Jackson,MEM,28.9,23.82,32.07,4.786567164,Jaren Jackson,B,B
+41866-58153,SF,Kelly,Kelly Oubre,Oubre,32.05,27,6100,PHO@OKC,PHO,OKC,,,,,Kelly Oubre,PHO,35.1,22.01,32.05,5.254098361,Kelly Oubre,B,A
+41866-9453,PF,Al,Al Horford,Horford,31.92,25,6500,DAL@PHI,PHI,DAL,,,,,Al Horford,PHI,31.3,16.92,31.92,4.910769231,Al Horford,B,B
+41866-15860,PF,Draymond,Draymond Green,Green,31.12,19,6700,NO@GS,GS,NO,,,,0,Draymond Green,GS,29.6,16.89,31.12,4.644776119,Draymond Green,C,D
+41866-14543,PF,Davis,Davis Bertans,Bertans,30.95,26,6400,WAS@TOR,WAS,TOR,,,,,Davis Bertans,WAS,33.5,18.28,30.95,4.8359375,Davis Bertans,B,A
+41866-9446,PG,Jeff,Jeff Teague,Teague,30.89,22,5700,MIN@DEN,MIN,DEN,,,,,Jeff Teague,MIN,33,20.91,30.89,5.419298246,Jeff Teague,C,A
+41866-68090,SF,OG,OG Anunoby,Anunoby,30.58,26,5700,WAS@TOR,TOR,WAS,,,,,OG Anunoby,TOR,35.2,15.69,30.58,5.364912281,OG Anunoby,B,A
+41866-14503,C,Jonas,Jonas Valanciunas,Valanciunas,29.91,26,6600,MEM@CLE,MEM,CLE,,,,,Jonas Valanciunas,MEM,25.5,20.9,29.91,4.531818182,Jonas Valanciunas,B,A
+41866-84709,C,Mitchell,Mitchell Robinson,Robinson,29.65,24,6300,NY@MIA,NY,MIA,,,,,Mitchell Robinson,NY,26,15.28,29.65,4.706349206,Mitchell Robinson,C,B
+41866-23665,SG,Buddy,Buddy Hield,Hield,29.49,27,6800,SAC@IND,SAC,IND,,,,,Buddy Hield,SAC,33.3,26.95,29.49,4.336764706,Buddy Hield,B,C
+41866-40201,SG,Dennis,Dennis Schroder,Schroder,29.37,27,5900,PHO@OKC,OKC,PHO,,,,,Dennis Schroder,OKC,30,27.58,29.37,4.977966102,Dennis Schroder,C,B
+41866-9508,SF,Carmelo,Carmelo Anthony,Anthony,29.28,14,6500,ORL@POR,POR,ORL,,,,,Carmelo Anthony,POR,34,23.29,29.28,4.504615385,Carmelo Anthony,B,B
+41866-20491,PF,Robert,Robert Covington,Covington,28.88,25,5700,MIN@DEN,MIN,DEN,,,,,Robert Covington,MIN,29.4,21.4,28.88,5.066666667,Robert Covington,C,C
+41866-16233,SG,Josh,Josh Richardson,Richardson,28.7,21,5400,DAL@PHI,PHI,DAL,,,,,Josh Richardson,PHI,33.5,21.71,28.7,5.314814815,Josh Richardson,C,B
+41866-68203,PF,Chris,Chris Boucher,Boucher,28.64,24,3500,WAS@TOR,TOR,WAS,,,,0,Chris Boucher,TOR,22.1,18.55,28.64,8.182857143,Chris Boucher,C,A
+41866-110353,PF,Brandon,Brandon Clarke,Clarke,28.62,22,5900,MEM@CLE,MEM,CLE,,,,0,Brandon Clarke,MEM,25.4,18.17,28.62,4.850847458,Brandon Clarke,C,C
+41866-41594,PF,Aaron,Aaron Gordon,Gordon,28.03,25,5600,ORL@POR,ORL,POR,,,,,Aaron Gordon,ORL,32.1,19.44,28.03,5.005357143,Aaron Gordon,C,B
+41866-14512,SF,Marcus,Marcus Morris,Morris,27.63,26,5500,NY@MIA,NY,MIA,,,,,Marcus Morris,NY,31.2,23.74,27.63,5.023636364,Marcus Morris,C,B
+41866-84667,PG,Collin,Collin Sexton,Sexton,27.54,28,5600,MEM@CLE,CLE,MEM,,,,,Collin Sexton,CLE,30.6,26.25,27.54,4.917857143,Collin Sexton,C,B
+41866-58253,C,Myles,Myles Turner,Turner,26.9,20,5400,SAC@IND,IND,SAC,,,,,Myles Turner,IND,29.7,16.96,26.9,4.981481481,Myles Turner,C,A
+41866-14511,SF,Markieff,Markieff Morris,Morris,26.86,27,3900,DET@BOS,DET,BOS,,,,,Markieff Morris,DET,32.4,21.67,26.86,6.887179487,Markieff Morris,C,A
+41866-14510,SF,Alec,Alec Burks,Burks,26.73,26,5500,NO@GS,GS,NO,,,,,Alec Burks,GS,29.2,21.36,26.73,4.86,Alec Burks,C,A
+41866-101329,PG,Kendrick,Kendrick Nunn,Nunn,26.32,28,5800,NY@MIA,MIA,NY,,,,,Kendrick Nunn,MIA,30.6,24.03,26.32,4.537931034,Kendrick Nunn,C,C
+41866-23096,SG,Evan,Evan Fournier,Fournier,26.3,28,5200,ORL@POR,ORL,POR,,,,,Evan Fournier,ORL,31.3,22.75,26.3,5.057692308,Evan Fournier,C,A
+41866-40562,SG,Josh,Josh Hart,Hart,25.92,22,4800,NO@GS,NO,GS,,,,,Josh Hart,NO,30.2,16.93,25.92,5.4,Josh Hart,C,B
+41866-84679,PF,Marvin,Marvin Bagley,Bagley,25.89,5,5100,SAC@IND,SAC,IND,,,,0,Marvin Bagley,SAC,22.8,26.89,25.89,5.076470588,Marvin Bagley,C,A
+41866-12351,PF,Derrick,Derrick Favors,Favors,25.89,13,5600,NO@GS,NO,GS,,,,0,Derrick Favors,NO,22,16.63,25.89,4.623214286,Derrick Favors,C,B
+41866-23447,PF,Richaun,Richaun Holmes,Holmes,25.75,27,5300,SAC@IND,SAC,IND,,,,0,Richaun Holmes,SAC,25.8,14.75,25.75,4.858490566,Richaun Holmes,C,B
+41866-15846,SF,Tim,Tim Hardaway,Hardaway,25.67,27,4900,DAL@PHI,DAL,PHI,,,,,Tim Hardaway,DAL,30.5,26.4,25.67,5.23877551,Tim Hardaway,C,A
+41866-16448,PF,Frank,Frank Kaminsky,Kaminsky,25.48,27,5300,PHO@OKC,PHO,OKC,,,,,Frank Kaminsky,PHO,27.5,19.97,25.48,4.80754717,Frank Kaminsky,C,C
+41866-15800,SF,Jae,Jae Crowder,Crowder,25.47,27,4400,MEM@CLE,MEM,CLE,,,,0,Jae Crowder,MEM,31.4,14.78,25.47,5.788636364,Jae Crowder,C,A
+41866-55056,PF,Dario,Dario Saric,Saric,25.38,27,4600,PHO@OKC,PHO,OKC,,,,,Dario Saric,PHO,31,17.04,25.38,5.517391304,Dario Saric,C,A
+41866-42148,PF,Rondae,Rondae Hollis-Jefferson,Hollis-Jefferson,25.11,19,3600,WAS@TOR,TOR,WAS,,,,,Rondae Hollis-Jefferson,TOR,26.2,18.55,25.11,6.975,Rondae Hollis-Jefferson,C,A
+41866-84694,SG,Bruce,Bruce Brown,Brown,24.88,28,4500,DET@BOS,DET,BOS,,,,,Bruce Brown,DET,30.4,17.64,24.88,5.528888889,Bruce Brown,C,A
+41866-110357,SG,RJ,RJ Barrett,Barrett,24.71,27,5300,NY@MIA,NY,MIA,,,,,RJ Barrett,NY,31.5,22.93,24.71,4.662264151,RJ Barrett,C,A
+41866-60233,SG,Dillon,Dillon Brooks,Brooks,24.54,28,5000,MEM@CLE,MEM,CLE,,,,,Dillon Brooks,MEM,27.8,21.65,24.54,4.908,Dillon Brooks,C,A
+41866-9655,SG,JJ,JJ Redick,Redick,24.52,27,5200,NO@GS,NO,GS,,,,,JJ Redick,NO,30.6,19.65,24.52,4.715384615,JJ Redick,C,C
+41866-23823,C,Willie,Willie Cauley-Stein,Cauley-Stein,24.36,26,4800,NO@GS,GS,NO,,,,0,Willie Cauley-Stein,GS,23.3,15.7,24.36,5.075,Willie Cauley-Stein,C,A
+41866-80806,PG,Lonzo,Lonzo Ball,Ball,23.46,21,5300,NO@GS,NO,GS,,,,0,Lonzo Ball,NO,25.3,19.15,23.46,4.426415094,Lonzo Ball,C,B
+41866-9729,PF,Paul,Paul Millsap,Millsap,23.24,24,5000,MIN@DEN,DEN,MIN,,,,0,Paul Millsap,DEN,24,20.01,23.24,4.648,Paul Millsap,C,A
+41866-81529,PF,Daniel,Daniel Theis,Theis,23.04,22,4400,DET@BOS,BOS,DET,,,,0,Daniel Theis,BOS,22.5,13.71,23.04,5.236363636,Daniel Theis,C,A
+41866-80805,PG,Markelle,Markelle Fultz,Fultz,23.02,27,4700,ORL@POR,ORL,POR,,,,0,Markelle Fultz,ORL,28.1,19.91,23.02,4.89787234,Markelle Fultz,C,A
+41866-24544,SG,Gary,Gary Harris,Harris,22.77,26,4600,MIN@DEN,DEN,MIN,,,,0,Gary Harris,DEN,33.5,15.06,22.77,4.95,Gary Harris,C,B
+41866-20640,SG,Jordan,Jordan Clarkson,Clarkson,22.19,28,4300,MEM@CLE,CLE,MEM,,,,0,Jordan Clarkson,CLE,23,25.85,22.19,5.160465116,Jordan Clarkson,C,A
+41866-84668,SF,Troy,Troy Brown,Brown,21.8,23,5200,WAS@TOR,WAS,TOR,,,,0,Troy Brown,WAS,26,16.27,21.8,4.192307692,Troy Brown,C,B
+41866-55060,SG,Bogdan,Bogdan Bogdanovic,Bogdanovic,21.4,25,4600,SAC@IND,SAC,IND,GTD,Ankle,,0,Bogdan Bogdanovic,SAC,27.1,21.64,21.4,4.652173913,Bogdan Bogdanovic,C,A
+41866-15946,SF,Harrison,Harrison Barnes,Barnes,21.2,27,4700,SAC@IND,SAC,IND,,,,0,Harrison Barnes,SAC,33,17.7,21.2,4.510638298,Harrison Barnes,C,A
+41866-9953,C,Ian,Ian Mahinmi,Mahinmi,21.16,6,4300,WAS@TOR,WAS,TOR,,,,0,Ian Mahinmi,WAS,23.5,17.54,21.16,4.920930233,Ian Mahinmi,C,A
+41866-12368,PF,Nemanja,Nemanja Bjelica,Bjelica,19.99,27,4800,SAC@IND,SAC,IND,,,,0,Nemanja Bjelica,SAC,24.8,14.75,19.99,4.164583333,Nemanja Bjelica,C,B
+41866-84719,PG,Aaron,Aaron Holiday,Holiday,23.7,26,4300,SAC@IND,IND,SAC,,,,0,,,,,,,,,
+41866-19726,SF,Abdel,Abdel Nader,Nader,11.93499985,20,3500,PHO@OKC,OKC,PHO,,,,0,,,,,,,,,
+41866-110328,SF,Admiral,Admiral Schofield,Schofield,7.330769466,13,3800,WAS@TOR,WAS,TOR,,,,0,,,,,,,,,
+41866-12342,PF,Al-Farouq,Al-Farouq Aminu,Aminu,15.27222188,18,3800,ORL@POR,ORL,POR,O,Knee,,0,,,,,,,,,
+41866-110365,PF,Alen,Alen Smailagic,Smailagic,0,0,3500,NO@GS,GS,NO,,,,0,,,,,,,,,
+41866-18435,SF,Alfonzo,Alfonzo McKinnie,McKinnie,6.494444529,18,3500,MEM@CLE,CLE,MEM,,,,0,,,,,,,,,
+41866-84718,PF,Alize,Alize Johnson,Johnson,3.266666624,9,3500,SAC@IND,IND,SAC,,,,0,,,,,,,,,
+41866-84827,SG,Allonzo,Allonzo Trier,Trier,11.53333282,12,3500,NY@MIA,NY,MIA,GTD,Concussion,,0,,,,,,,,,
+41866-23581,PF,Amile,Amile Jefferson,Jefferson,2.333333333,6,3500,ORL@POR,ORL,POR,,,,0,,,,,,,,,
+41866-9664,SG,Andre,Andre Iguodala,Iguodala,19.10882389,68,3800,MEM@CLE,MEM,CLE,O,Not injury related,,0,,,,,,,,,
+41866-15548,SG,Andre,Andre Roberson,Roberson,0,0,3500,PHO@OKC,OKC,PHO,O,Knee,,0,,,,,,,,,
+41866-84717,PG,Anfernee,Anfernee Simons,Simons,14.95000022,28,3500,ORL@POR,POR,ORL,,,,0,,,,,,,,,
+41866-70824,C,Ante,Ante Zizic,Zizic,8.39999983,9,3500,MEM@CLE,CLE,MEM,,,,0,,,,,,,,,
+41866-9920,PF,Anthony,Anthony Tolliver,Tolliver,9.175,20,3500,ORL@POR,POR,ORL,,,,0,,,,,,,,,
+41866-48583,SG,Antonius,Antonius Cleveland,Cleveland,0,0,3500,DAL@PHI,DAL,PHI,,,,0,,,,,,,,,
+41866-117913,C,Anzejs,Anzejs Pasecniks,Pasecniks,18.10000038,1,4000,WAS@TOR,WAS,TOR,,,,0,,,,,,,,,
+41866-37931,C,Aron,Aron Baynes,Baynes,25.42777846,18,4300,PHO@OKC,PHO,OKC,,,,0,,,,,,,,,
+41866-101327,SF,BJ,BJ Johnson,Johnson,0,1,3500,ORL@POR,ORL,POR,,,,0,,,,,,,,,
+41866-9560,PF,Blake,Blake Griffin,Griffin,26.34666748,15,5900,DET@BOS,DET,BOS,GTD,Knee,,0,,,,,,,,,
+41866-63826,C,Boban,Boban Marjanovic,Marjanovic,14.31818182,11,3500,DAL@PHI,DAL,PHI,,,,0,,,,,,,,,
+41866-42156,C,Bobby,Bobby Portis,Portis,19.48214286,28,3800,NY@MIA,NY,MIA,,,,0,,,,,,,,,
+41866-110313,C,Bol,Bol Bol,Bol,0,0,3500,MIN@DEN,DEN,MIN,,,,0,,,,,,,,,
+41866-16790,PG,Brad,Brad Wanamaker,Wanamaker,21.95,25,3500,DET@BOS,BOS,DET,GTD,Hip,,0,,,,,,,,,
+41866-14506,PG,Brandon,Brandon Knight,Knight,9.177777608,9,3500,MEM@CLE,CLE,MEM,,,,0,,,,,,,,,
+41866-110829,SG,Brian,Brian Bowen,Bowen,2.066666603,3,3500,SAC@IND,IND,SAC,,,,0,,,,,,,,,
+41866-55058,SF,Bruno,Bruno Caboclo,Caboclo,10.47058824,17,3500,MEM@CLE,MEM,CLE,,,,0,,,,,,,,,
+41866-9725,SF,C.J.,C.J. Miles,Miles,13.43999939,10,3500,WAS@TOR,WAS,TOR,O,Wrist,,0,,,,,,,,,
+41866-66185,PF,Caleb,Caleb Swanigan,Swanigan,2.8,5,3500,SAC@IND,SAC,IND,,,,0,,,,,,,,,
+41866-110316,SF,Cameron,Cameron Johnson,Johnson,16.59166718,24,3800,PHO@OKC,PHO,OKC,GTD,Hip,,0,,,,,,,,,
+41866-110332,PG,Carsen,Carsen Edwards,Edwards,7.890476045,21,3500,DET@BOS,BOS,DET,,,,0,,,,,,,,,
+41866-63126,SF,Cedi,Cedi Osman,Osman,19.48928615,28,3900,MEM@CLE,CLE,MEM,,,,0,,,,,,,,,
+41866-66091,PF,Cheick,Cheick Diallo,Diallo,10.33888923,18,3500,PHO@OKC,PHO,OKC,,,,0,,,,,,,,,
+41866-117274,PF,Chris,Chris Silva,Silva,10.27916654,24,3500,NY@MIA,MIA,NY,,,,0,,,,,,,,,
+41866-42202,PF,Christian,Christian Wood,Wood,18.29230793,26,4400,DET@BOS,DET,BOS,O,Knee,,0,,,,,,,,,
+41866-14529,PG,Cory,Cory Joseph,Joseph,17.38888889,27,3600,SAC@IND,SAC,IND,,,,0,,,,,,,,,
+41866-9615,SG,Courtney,Courtney Lee,Lee,5.637499809,8,3500,DAL@PHI,DAL,PHI,,,,0,,,,,,,,,
+41866-9466,PG,D.J.,D.J. Augustin,Augustin,21.28571429,28,4600,ORL@POR,ORL,POR,,,,0,,,,,,,,,
+41866-18376,SG,Damion,Damion Lee,Lee,18.74000041,15,3800,NO@GS,GS,NO,,,,0,,,,,,,,,
+41866-23676,SG,Damyean,Damyean Dotson,Dotson,10.91666667,24,3500,NY@MIA,NY,MIA,,,,0,,,,,,,,,
+41866-117307,SF,DaQuan,DaQuan Jeffries,Jeffries,2.349999905,2,3500,SAC@IND,SAC,IND,GTD,Undisclosed,,0,,,,,,,,,
+41866-110637,SF,Darius,Darius Bazley,Bazley,10.32592547,27,3500,PHO@OKC,OKC,PHO,,,,0,,,,,,,,,
+41866-110342,PG,Darius,Darius Garland,Garland,20.62,28,4400,MEM@CLE,CLE,MEM,,,,0,,,,,,,,,
+41866-15762,SF,Darius,Darius Miller,Miller,15.50144892,69,3500,NO@GS,NO,GS,O,Achilles,,0,,,,,,,,,
+41866-85309,PG,Daryl,Daryl Macon,Macon,0.625,4,3500,NY@MIA,MIA,NY,,,,0,,,,,,,,,
+41866-84703,PG,De'Anthony,De'Anthony Melton,Melton,23.23,17,4300,MEM@CLE,MEM,CLE,,,,0,,,,,,,,,
+41866-110883,PF,Dean,Dean Wade,Wade,2.799999873,3,3500,MEM@CLE,CLE,MEM,,,,0,,,,,,,,,
+41866-84673,C,Deandre,Deandre Ayton,Ayton,30.14,2,7800,PHO@OKC,PHO,OKC,O,Ankle,,0,,,,,,,,,
+41866-40830,SG,Delon,Delon Wright,Wright,20.9,25,4100,DAL@PHI,DAL,PHI,GTD,Finger,,0,,,,,,,,,
+41866-80814,PG,Dennis,Dennis Smith,Smith,13.06111145,18,3500,NY@MIA,NY,MIA,,,,0,,,,,,,,,
+41866-85106,SG,Deonte,Deonte Burton,Burton,5.599999746,12,3500,PHO@OKC,OKC,PHO,,,,0,,,,,,,,,
+41866-66968,SF,Derrick,Derrick Jones,Jones,21.94,14,4700,NY@MIA,MIA,NY,,,,0,,,,,,,,,
+41866-58460,SG,Devin,Devin Booker,Booker,38.44999949,24,7500,PHO@OKC,PHO,OKC,GTD,Forearm,,0,,,,,,,,,
+41866-110307,PF,Dewan,Dewan Hernandez,Hernandez,3.599999905,4,3500,WAS@TOR,TOR,WAS,,,,0,,,,,,,,,
+41866-16301,C,Dewayne,Dewayne Dedmon,Dedmon,11.85714286,21,3700,SAC@IND,SAC,IND,,,,0,,,,,,,,,
+41866-16220,SF,Dion,Dion Waiters,Waiters,20.402273,44,3700,NY@MIA,MIA,NY,O,Suspension,,0,,,,,,,,,
+41866-16376,SF,Dorian,Dorian Finney-Smith,Finney-Smith,23.31,27,4200,DAL@PHI,DAL,PHI,,,,0,,,,,,,,,
+41866-18256,SF,Doug,Doug McDermott,McDermott,14.42857143,28,3600,SAC@IND,IND,SAC,,,,0,,,,,,,,,
+41866-85137,SG,Duncan,Duncan Robinson,Robinson,22.33,28,4400,NY@MIA,MIA,NY,,,,0,,,,,,,,,
+41866-16196,C,Dwight,Dwight Powell,Powell,18.91666667,24,4400,DAL@PHI,DAL,PHI,,,,0,,,,,,,,,
+41866-110341,SG,Dylan,Dylan Windler,Windler,0,0,3500,MEM@CLE,CLE,MEM,O,Lower leg,,0,,,,,,,,,
+41866-14554,SF,E'Twaun,E'Twaun Moore,Moore,16.77647131,17,3700,NO@GS,NO,GS,,,,0,,,,,,,,,
+41866-58270,PG,Edmond,Edmond Sumner,Sumner,11.65999985,5,3500,SAC@IND,IND,SAC,,,,0,,,,,,,,,
+41866-19138,PG,Elfrid,Elfrid Payton,Payton,23.86,11,4600,NY@MIA,NY,MIA,,,,0,,,,,,,,,
+41866-84686,SG,Elie,Elie Okobo,Okobo,9.931578787,19,3500,PHO@OKC,PHO,OKC,,,,0,,,,,,,,,
+41866-14516,C,Enes,Enes Kanter,Kanter,19.88888889,18,3900,DET@BOS,BOS,DET,,,,0,,,,,,,,,
+41866-110323,PF,Eric,Eric Paschall,Paschall,23.7,26,5000,NO@GS,GS,NO,GTD,Hip,,0,,,,,,,,,
+41866-80824,PG,Frank,Frank Jackson,Jackson,9.956521739,23,3500,NO@GS,NO,GS,,,,0,,,,,,,,,
+41866-80813,PG,Frank,Frank Ntilikina,Ntilikina,16.99230722,26,3900,NY@MIA,NY,MIA,GTD,Illness,,0,,,,,,,,,
+41866-24247,SG,Fred,Fred VanVleet,VanVleet,36.7,22,7100,WAS@TOR,TOR,WAS,GTD,Knee,,0,,,,,,,,,
+41866-70826,SG,Furkan,Furkan Korkmaz,Korkmaz,12.86428615,28,3500,DAL@PHI,PHI,DAL,,,,0,,,,,,,,,
+41866-111622,SG,Garrison,Garrison Mathews,Mathews,4.040000153,5,3500,WAS@TOR,WAS,TOR,,,,0,,,,,,,,,
+41866-84695,SG,Gary,Gary Trent,Trent,6.566666667,15,3500,ORL@POR,POR,ORL,,,,0,,,,,,,,,
+41866-23800,SF,Glenn,Glenn Robinson,Robinson,21.82,29,4500,NO@GS,GS,NO,,,,0,,,,,,,,,
+41866-110359,C,Goga,Goga Bitadze,Bitadze,10.20476205,21,3500,SAC@IND,IND,SAC,,,,0,,,,,,,,,
+41866-9673,PG,Goran,Goran Dragic,Dragic,27.36666701,18,5200,NY@MIA,MIA,NY,GTD,Groin,,0,,,,,,,,,
+41866-12366,SF,Gordon,Gordon Hayward,Hayward,32.17272672,11,6600,DET@BOS,BOS,DET,GTD,Foot,,0,,,,,,,,,
+41866-15771,C,Gorgui,Gorgui Dieng,Dieng,25.8,22,4400,MIN@DEN,MIN,DEN,,,,0,,,,,,,,,
+41866-110318,PF,Grant,Grant Williams,Williams,8.117391172,23,3500,DET@BOS,BOS,DET,,,,0,,,,,,,,,
+41866-84711,SG,Grayson,Grayson Allen,Allen,14.08461585,13,3800,MEM@CLE,MEM,CLE,GTD,Ankle,,0,,,,,,,,,
+41866-84699,SG,Hamidou,Hamidou Diallo,Diallo,18.93333308,12,3700,PHO@OKC,OKC,PHO,O,Elbow,,0,,,,,,,,,
+41866-80819,PF,Harry,Harry Giles,Giles,7.128571647,7,3500,SAC@IND,SAC,IND,,,,0,,,,,,,,,
+41866-110335,SF,Ignas,Ignas Brazdeikis,Brazdeikis,3.428571429,7,3500,NY@MIA,NY,MIA,,,,0,,,,,,,,,
+41866-84722,SF,Isaac,Isaac Bonga,Bonga,10.91904776,21,3500,WAS@TOR,WAS,TOR,,,,0,,,,,,,,,
+41866-110346,PF,Isaiah,Isaiah Roby,Roby,0,0,3500,DAL@PHI,DAL,PHI,,,,0,,,,,,,,,
+41866-14559,PG,Isaiah,Isaiah Thomas,Thomas,22.84,19,4900,WAS@TOR,WAS,TOR,,,,0,,,,,,,,,
+41866-12511,PG,Ish,Ish Smith,Smith,21.84230863,26,4600,WAS@TOR,WAS,TOR,,,,0,,,,,,,,,
+41866-67025,PF,Ivan,Ivan Rabb,Rabb,13.67755127,49,3500,NY@MIA,NY,MIA,,,,0,,,,,,,,,
+41866-9495,PG,J.J.,J.J. Barea,Barea,16.4857145,7,3800,DAL@PHI,DAL,PHI,,,,0,,,,,,,,,
+41866-84697,SG,Jacob,Jacob Evans,Evans,9.287500381,8,3500,NO@GS,GS,NO,,,,0,,,,,,,,,
+41866-58083,C,Jahlil,Jahlil Okafor,Okafor,18.46111043,18,3900,NO@GS,NO,GS,,,,0,,,,,,,,,
+41866-16183,SF,JaKarr,JaKarr Sampson,Sampson,12.42222256,9,3500,SAC@IND,IND,SAC,,,,0,,,,,,,,,
+41866-23780,SF,Jake,Jake Layman,Layman,18.62142944,14,3500,MIN@DEN,MIN,DEN,GTD,Toe,,0,,,,,,,,,
+41866-116202,PG,Jalen,Jalen Lecque,Lecque,0,0,3500,PHO@OKC,PHO,OKC,,,,0,,,,,,,,,
+41866-17491,SF,James,James Ennis,Ennis,14.06206854,29,3500,DAL@PHI,PHI,DAL,,,,0,,,,,,,,,
+41866-9966,PF,James,James Johnson,Johnson,8.366666794,6,3500,NY@MIA,MIA,NY,,,,0,,,,,,,,,
+41866-117819,PG,Jared,Jared Harper,Harper,0,1,3500,PHO@OKC,PHO,OKC,,,,0,,,,,,,,,
+41866-84721,SF,Jarred,Jarred Vanderbilt,Vanderbilt,0.966666698,3,3500,MIN@DEN,DEN,MIN,,,,0,,,,,,,,,
+41866-110333,SF,Jarrett,Jarrett Culver,Culver,18.64400024,25,3900,MIN@DEN,MIN,DEN,GTD,Illness,,0,,,,,,,,,
+41866-112709,SG,Javonte,Javonte Green,Green,5.131578947,19,3500,DET@BOS,BOS,DET,,,,0,,,,,,,,,
+41866-110340,C,Jaxson,Jaxson Hayes,Hayes,24.98,26,4500,NO@GS,NO,GS,,,,0,,,,,,,,,
+41866-115802,SF,Jaylen,Jaylen Hoard,Hoard,4.279999924,5,3500,ORL@POR,POR,ORL,,,,0,,,,,,,,,
+41866-110317,PG,Jaylen,Jaylen Nowell,Nowell,3.849999905,2,3500,MIN@DEN,MIN,DEN,,,,0,,,,,,,,,
+41866-23831,PF,Jerami,Jerami Grant,Grant,20.11,26,3800,MIN@DEN,DEN,MIN,,,,0,,,,,,,,,
+41866-15559,SG,Jeremy,Jeremy Lamb,Lamb,27.21052632,19,5000,SAC@IND,IND,SAC,GTD,Groin,,0,,,,,,,,,
+41866-84696,PG,Jevon,Jevon Carter,Carter,11.22222222,18,3500,PHO@OKC,PHO,OKC,,,,0,,,,,,,,,
+41866-15952,PF,John,John Henson,Henson,14.11999969,10,3500,MEM@CLE,CLE,MEM,,,,0,,,,,,,,,
+41866-111376,SG,John,John Konchar,Konchar,0,1,3500,MEM@CLE,MEM,CLE,,,,0,,,,,,,,,
+41866-58574,PF,Jonah,Jonah Bolden,Bolden,2,2,3500,DAL@PHI,PHI,DAL,,,,0,,,,,,,,,
+41866-40769,PF,Jordan,Jordan Bell,Bell,9.618749619,16,3500,MIN@DEN,MIN,DEN,,,,0,,,,,,,,,
+41866-110311,PG,Jordan,Jordan Bone,Bone,0.666666667,3,3500,DET@BOS,DET,BOS,,,,0,,,,,,,,,
+41866-85597,PG,Jordan,Jordan McLaughlin,McLaughlin,7.599999905,4,3500,MIN@DEN,MIN,DEN,,,,0,,,,,,,,,
+41866-16230,SG,Jordan,Jordan McRae,McRae,17.630769,13,3900,WAS@TOR,WAS,TOR,GTD,Finger,,0,,,,,,,,,
+41866-110322,SG,Jordan,Jordan Poole,Poole,14.19629584,27,3500,NO@GS,GS,NO,,,,0,,,,,,,,,
+41866-82697,PG,Josh,Josh Gray,Gray,1.200000048,2,3500,NO@GS,NO,GS,,,,0,,,,,,,,,
+41866-80809,SF,Josh,Josh Jackson,Jackson,23.01139271,79,3500,MEM@CLE,MEM,CLE,,,,0,,,,,,,,,
+41866-74163,PG,Josh,Josh Magette,Magette,4.866666794,3,3500,ORL@POR,ORL,POR,,,,0,,,,,,,,,
+41866-84689,SF,Josh,Josh Okogie,Okogie,24.52,24,3800,MIN@DEN,MIN,DEN,,,,0,,,,,,,,,
+41866-113305,SG,Josh,Josh Reaves,Reaves,0,0,3500,DAL@PHI,DAL,PHI,,,,0,,,,,,,,,
+41866-70822,SF,Juancho,Juancho Hernangomez,Hernangomez,8.34375,16,3500,MIN@DEN,DEN,MIN,,,,0,,,,,,,,,
+41866-16604,SF,Justin,Justin Holiday,Holiday,20.75,28,3900,SAC@IND,IND,SAC,,,,0,,,,,,,,,
+41866-58134,SF,Justin,Justin Jackson,Jackson,10.27692355,26,3500,DAL@PHI,DAL,PHI,,,,0,,,,,,,,,
+41866-110334,SG,Justin,Justin James,James,8.541666667,12,3500,SAC@IND,SAC,IND,,,,0,,,,,,,,,
+41866-66424,C,Justin,Justin Patton,Patton,1.700000048,2,3500,PHO@OKC,OKC,PHO,,,,0,,,,,,,,,
+41866-111371,PG,Justin,Justin Robinson,Robinson,2.183333397,6,3500,WAS@TOR,WAS,TOR,,,,0,,,,,,,,,
+41866-58084,SF,Justise,Justise Winslow,Winslow,28.07000122,10,4900,NY@MIA,MIA,NY,O,Back,,0,,,,,,,,,
+41866-58289,SG,Kadeem,Kadeem Allen,Allen,14,1,3500,NY@MIA,NY,MIA,,,,0,,,,,,,,,
+41866-58462,C,Karl-Anthony,Karl-Anthony Towns,Towns,50.88261082,23,10600,MIN@DEN,MIN,DEN,GTD,Knee,,0,,,,,,,,,
+41866-84688,SF,Keita,Keita Bates-Diop,Bates-Diop,12.97142901,14,3500,MIN@DEN,MIN,DEN,,,,0,,,,,,,,,
+41866-115612,SF,Kelan,Kelan Martin,Martin,8.077777439,9,3500,MIN@DEN,MIN,DEN,,,,0,,,,,,,,,
+41866-22541,C,Kelly,Kelly Olynyk,Olynyk,18.81785801,28,3500,NY@MIA,MIA,NY,,,,0,,,,,,,,,
+41866-85305,SF,Kenrich,Kenrich Williams,Williams,17.97407362,27,3700,NO@GS,NO,GS,,,,0,,,,,,,,,
+41866-19781,SF,Kent,Kent Bazemore,Bazemore,22.79,28,4500,ORL@POR,POR,ORL,,,,0,,,,,,,,,
+41866-84685,SF,Kevin,Kevin Hervey,Hervey,0,0,3500,PHO@OKC,OKC,PHO,,,,0,,,,,,,,,
+41866-84674,SF,Kevin,Kevin Knox,Knox,15.27407385,27,3500,NY@MIA,NY,MIA,,,,0,,,,,,,,,
+41866-110345,SF,Kevin,Kevin Porter,Porter,19.89,27,4000,MEM@CLE,CLE,MEM,,,,0,,,,,,,,,
+41866-58576,C,Kevon,Kevon Looney,Looney,8.037500381,8,3500,NO@GS,GS,NO,,,,0,,,,,,,,,
+41866-16081,PF,Khem,Khem Birch,Birch,16.375,16,4200,ORL@POR,ORL,POR,,,,0,,,,,,,,,
+41866-84723,SG,Khyri,Khyri Thomas,Thomas,0.5,2,3500,DET@BOS,DET,BOS,O,Foot,,0,,,,,,,,,
+41866-111671,PG,Ky,Ky Bowman,Bowman,17.60769184,26,3600,NO@GS,GS,NO,,,,0,,,,,,,,,
+41866-23716,SG,Kyle,Kyle Anderson,Anderson,18.13636364,22,3500,MEM@CLE,MEM,CLE,,,,0,,,,,,,,,
+41866-110358,SG,Kyle,Kyle Guy,Guy,0,0,3500,SAC@IND,SAC,IND,,,,0,,,,,,,,,
+41866-17384,C,Kyle,Kyle O'Quinn,O'Quinn,11.39411747,17,3500,DAL@PHI,PHI,DAL,,,,0,,,,,,,,,
+41866-110309,SF,KZ,KZ Okpala,Okpala,0.066666668,3,3500,NY@MIA,MIA,NY,,,,0,,,,,,,,,
+41866-17230,SG,Langston,Langston Galloway,Galloway,23.64,28,3800,DET@BOS,DET,BOS,,,,0,,,,,,,,,
+41866-20992,PF,Larry,Larry Nance,Nance,22.59615385,26,4000,MEM@CLE,CLE,MEM,,,,0,,,,,,,,,
+41866-117297,SF,Louis,Louis King,King,0,0,3500,DET@BOS,DET,BOS,,,,0,,,,,,,,,
+41866-111273,SG,Luguentz,Luguentz Dort,Dort,5.679999924,5,3500,PHO@OKC,OKC,PHO,,,,0,,,,,,,,,
+41866-84669,PG,Luka,Luka Doncic,Doncic,53.67200195,25,10300,DAL@PHI,DAL,PHI,O,Ankle,,0,,,,,,,,,
+41866-66046,SF,Luke,Luke Kennard,Kennard,26.77036992,27,5100,DET@BOS,DET,BOS,GTD,Knee,,0,,,,,,,,,
+41866-18811,PF,Malcolm,Malcolm Miller,Miller,2.800000117,13,3500,WAS@TOR,TOR,WAS,,,,0,,,,,,,,,
+41866-66064,SG,Malik,Malik Beasley,Beasley,10.03157927,19,3500,MIN@DEN,DEN,MIN,,,,0,,,,,,,,,
+41866-9581,C,Marc,Marc Gasol,Gasol,24.21481436,27,5300,WAS@TOR,TOR,WAS,O,Hamstring,,0,,,,,,,,,
+41866-23670,SG,Marcus,Marcus Smart,Smart,26.59500122,20,4800,DET@BOS,BOS,DET,O,Eye,,0,,,,,,,,,
+41866-110330,SG,Marial,Marial Shayok,Shayok,0,0,3500,DAL@PHI,PHI,DAL,,,,0,,,,,,,,,
+41866-63123,SF,Mario,Mario Hezonja,Hezonja,12,24,3500,ORL@POR,POR,ORL,GTD,Back,,0,,,,,,,,,
+41866-113306,SG,Marko,Marko Guduric,Guduric,10.0615387,26,3500,MEM@CLE,MEM,CLE,,,,0,,,,,,,,,
+41866-67707,PF,Marquese,Marquese Chriss,Chriss,20.28571429,28,4000,NO@GS,GS,NO,,,,0,,,,,,,,,
+41866-15590,C,Mason,Mason Plumlee,Plumlee,20.11922983,26,3900,MIN@DEN,DEN,MIN,,,,0,,,,,,,,,
+41866-110320,SF,Matisse,Matisse Thybulle,Thybulle,13.85357121,28,3700,DAL@PHI,PHI,DAL,,,,0,,,,,,,,,
+41866-110827,SG,Matt,Matt Thomas,Thomas,7.21666654,12,3500,WAS@TOR,TOR,WAS,O,Finger,,0,,,,,,,,,
+41866-20064,PG,Matthew,Matthew Dellavedova,Dellavedova,7.946154081,26,3500,MEM@CLE,CLE,MEM,,,,0,,,,,,,,,
+41866-81621,PF,Maxi,Maxi Kleber,Kleber,18.46538485,26,3900,DAL@PHI,DAL,PHI,,,,0,,,,,,,,,
+41866-84720,SF,Melvin,Melvin Frazier,Frazier,1.539999962,5,3500,ORL@POR,ORL,POR,,,,0,,,,,,,,,
+41866-15669,C,Meyers,Meyers Leonard,Leonard,13.625,28,3500,NY@MIA,MIA,NY,,,,0,,,,,,,,,
+41866-16201,PG,Michael,Michael Carter-Williams,Carter-Williams,16.22777812,18,3700,ORL@POR,ORL,POR,,,,0,,,,,,,,,
+41866-84682,PF,Michael,Michael Porter,Porter,8.994117288,17,3500,MIN@DEN,DEN,MIN,,,,0,,,,,,,,,
+41866-84670,SF,Mikal,Mikal Bridges,Bridges,24.18,27,4400,PHO@OKC,PHO,OKC,,,,0,,,,,,,,,
+41866-17894,PF,Mike,Mike Muscala,Muscala,8.011764526,17,3500,PHO@OKC,OKC,PHO,,,,0,,,,,,,,,
+41866-16368,PF,Mike,Mike Scott,Scott,12.22068944,29,3500,DAL@PHI,PHI,DAL,,,,0,,,,,,,,,
+41866-84675,C,Mo,Mo Bamba,Bamba,16.81538508,26,4300,ORL@POR,ORL,POR,,,,0,,,,,,,,,
+41866-40396,PG,Monte,Monte Morris,Morris,15.77692355,26,3900,MIN@DEN,DEN,MIN,,,,0,,,,,,,,,
+41866-84714,C,Moritz,Moritz Wagner,Wagner,22.82857114,21,5100,WAS@TOR,WAS,TOR,O,Ankle,,0,,,,,,,,,
+41866-117286,C,Moses,Moses Brown,Brown,5.199999809,4,3500,ORL@POR,POR,ORL,,,,0,,,,,,,,,
+41866-110343,SF,Nassir,Nassir Little,Little,11.68888855,18,3500,ORL@POR,POR,ORL,,,,0,,,,,,,,,
+41866-23155,SG,Naz,Naz Mitrou-Long,Mitrou-Long,11.90000025,3,3600,SAC@IND,IND,SAC,GTD,Ankle,,0,,,,,,,,,
+41866-110995,PF,Naz,Naz Reid,Reid,2.099999905,2,3500,MIN@DEN,MIN,DEN,,,,0,,,,,,,,,
+41866-23825,PF,Nerlens,Nerlens Noel,Noel,21.75769278,26,4600,PHO@OKC,OKC,PHO,,,,0,,,,,,,,,
+41866-110356,SG,Nickeil,Nickeil Alexander-Walker,Alexander-Walker,12.15833282,24,3500,NO@GS,NO,GS,,,,0,,,,,,,,,
+41866-110697,PF,Nicolo,Nicolo Melli,Melli,11.33333333,24,3500,NO@GS,NO,GS,,,,0,,,,,,,,,
+41866-42661,PF,Noah,Noah Vonleh,Vonleh,9.788234935,17,3500,MIN@DEN,MIN,DEN,,,,0,,,,,,,,,
+41866-16293,SG,Norman,Norman Powell,Powell,24.55555556,27,5300,WAS@TOR,TOR,WAS,O,Shoulder,,0,,,,,,,,,
+41866-96775,PF,Norvel,Norvel Pelle,Pelle,16.45000076,4,3600,DAL@PHI,PHI,DAL,,,,0,,,,,,,,,
+41866-84705,PF,Omari,Omari Spellman,Spellman,17.46428571,28,3600,NO@GS,GS,NO,,,,0,,,,,,,,,
+41866-117283,SF,Oshae,Oshae Brissett,Brissett,1.339999962,5,3500,WAS@TOR,TOR,WAS,,,,0,,,,,,,,,
+41866-66196,SG,P.J.,P.J. Dozier,Dozier,8.816666921,6,3500,MIN@DEN,DEN,MIN,,,,0,,,,,,,,,
+41866-60021,SF,Pascal,Pascal Siakam,Siakam,43.21851942,27,9200,WAS@TOR,TOR,WAS,O,Groin,,0,,,,,,,,,
+41866-58658,SG,Patrick,Patrick McCaw,McCaw,8.733333588,6,3900,WAS@TOR,TOR,WAS,,,,0,,,,,,,,,
+41866-40208,PG,Raul,Raul Neto,Neto,8.72307704,26,3500,DAL@PHI,PHI,DAL,,,,0,,,,,,,,,
+41866-15947,SG,Reggie,Reggie Bullock,Bullock,19.09682501,63,3900,NY@MIA,NY,MIA,GTD,Back,,0,,,,,,,,,
+41866-14523,PG,Reggie,Reggie Jackson,Jackson,13.5,2,4200,DET@BOS,DET,BOS,O,Back,,0,,,,,,,,,
+41866-84708,C,Robert,Robert Williams,Williams,16.20526284,19,3700,DET@BOS,BOS,DET,O,Hip,,0,,,,,,,,,
+41866-15904,SF,Rodney,Rodney Hood,Hood,19.44761876,21,3900,ORL@POR,POR,ORL,O,Achilles,,0,,,,,,,,,
+41866-110321,SG,Romeo,Romeo Langford,Langford,0.75,2,3500,DET@BOS,BOS,DET,,,,0,,,,,,,,,
+41866-110349,PF,Rui,Rui Hachimura,Hachimura,25,25,5700,WAS@TOR,WAS,TOR,O,Groin,,0,,,,,,,,,
+41866-84833,PF,Ryan,Ryan Broekhoff,Broekhoff,4.950000127,6,3500,DAL@PHI,DAL,PHI,,,,0,,,,,,,,,
+41866-110639,PF,Sekou,Sekou Doumbouya,Doumbouya,2.099999905,4,3500,DET@BOS,DET,BOS,,,,0,,,,,,,,,
+41866-48598,SF,Semi,Semi Ojeleye,Ojeleye,7.144000244,25,3500,DET@BOS,BOS,DET,,,,0,,,,,,,,,
+41866-15583,PG,Seth,Seth Curry,Curry,16.77599976,25,4100,DAL@PHI,DAL,PHI,GTD,Back,,0,,,,,,,,,
+41866-15560,PG,Shabazz,Shabazz Napier,Napier,16.29999978,14,3700,MIN@DEN,MIN,DEN,,,,0,,,,,,,,,
+41866-84691,PG,Shake,Shake Milton,Milton,5.122222053,9,3600,DAL@PHI,PHI,DAL,,,,0,,,,,,,,,
+41866-110910,PG,Shamorie,Shamorie Ponds,Ponds,3.73333327,3,3500,WAS@TOR,TOR,WAS,,,,0,,,,,,,,,
+41866-66109,PF,Skal,Skal Labissiere,Labissiere,15.85357121,28,3500,ORL@POR,POR,ORL,,,,0,,,,,,,,,
+41866-15417,SF,Solomon,Solomon Hill,Hill,15.46538485,26,3500,MEM@CLE,MEM,CLE,,,,0,,,,,,,,,
+41866-58350,SF,Stanley,Stanley Johnson,Johnson,2.879999924,5,3500,WAS@TOR,TOR,WAS,GTD,Groin,,0,,,,,,,,,
+41866-9524,PG,Stephen,Stephen Curry,Curry,37.5,4,3500,NO@GS,GS,NO,O,Hand,,0,,,,,,,,,
+41866-84713,SG,Svi,Svi Mykhailiuk,Mykhailiuk,9.104347561,23,3500,DET@BOS,DET,BOS,,,,0,,,,,,,,,
+41866-80818,PF,T.J.,T.J. Leaf,Leaf,9.6823533,17,3500,SAC@IND,IND,SAC,,,,0,,,,,,,,,
+41866-18393,PG,T.J.,T.J. McConnell,McConnell,21.42,26,4200,SAC@IND,IND,SAC,,,,0,,,,,,,,,
+41866-23120,SF,T.J.,T.J. Warren,Warren,25.14,28,5000,SAC@IND,IND,SAC,GTD,Illness,,0,,,,,,,,,
+41866-112710,C,Tacko,Tacko Fall,Fall,6.599999905,1,3500,DET@BOS,BOS,DET,,,,0,,,,,,,,,
+41866-9481,PF,Taj,Taj Gibson,Gibson,14.28076876,26,3500,NY@MIA,NY,MIA,,,,0,,,,,,,,,
+41866-116340,SG,Terence,Terence Davis,Davis,13.52222245,27,3500,WAS@TOR,TOR,WAS,,,,0,,,,,,,,,
+41866-80820,SG,Terrance,Terrance Ferguson,Ferguson,11.10000029,21,3500,PHO@OKC,OKC,PHO,,,,0,,,,,,,,,
+41866-16405,SG,Terrence,Terrence Ross,Ross,20.88,26,4100,ORL@POR,ORL,POR,,,,0,,,,,,,,,
+41866-67312,C,Thomas,Thomas Bryant,Bryant,31.14444309,18,5700,WAS@TOR,WAS,TOR,O,Foot,,0,,,,,,,,,
+41866-70820,C,Thon,Thon Maker,Maker,8.107692425,26,3500,DET@BOS,DET,BOS,,,,0,,,,,,,,,
+41866-16071,PG,Tim,Tim Frazier,Frazier,9.114285605,14,3500,DET@BOS,DET,BOS,,,,0,,,,,,,,,
+41866-17517,SG,Tony,Tony Snell,Snell,13.86250051,24,3600,DET@BOS,DET,BOS,,,,0,,,,,,,,,
+41866-20277,SG,Torrey,Torrey Craig,Craig,9.468420731,19,3500,MIN@DEN,DEN,MIN,,,,0,,,,,,,,,
+41866-110319,PG,Tremont,Tremont Waters,Waters,20.89999962,1,3600,DET@BOS,BOS,DET,,,,0,,,,,,,,,
+41866-20806,SG,Treveon,Treveon Graham,Graham,12.34400024,25,3600,MIN@DEN,MIN,DEN,,,,0,,,,,,,,,
+41866-9538,SF,Trevor,Trevor Ariza,Ariza,14.43000031,20,3700,SAC@IND,SAC,IND,,,,0,,,,,,,,,
+41866-15843,PG,Trey,Trey Burke,Burke,15.25,10,3500,DAL@PHI,PHI,DAL,,,,0,,,,,,,,,
+41866-110331,SG,Ty,Ty Jerome,Jerome,12.88571385,7,3900,PHO@OKC,PHO,OKC,,,,0,,,,,,,,,
+41866-115994,PF,Tyler,Tyler Cook,Cook,3.333333333,6,3500,MEM@CLE,CLE,MEM,,,,0,,,,,,,,,
+41866-110312,SG,Tyler,Tyler Herro,Herro,25.35,27,4900,NY@MIA,MIA,NY,,,,0,,,,,,,,,
+41866-18600,PG,Tyler,Tyler Johnson,Johnson,12.75999985,20,3600,PHO@OKC,PHO,OKC,GTD,Illness,,0,,,,,,,,,
+41866-58081,PG,Tyus,Tyus Jones,Jones,16.98928615,28,3700,MEM@CLE,MEM,CLE,,,,0,,,,,,,,,
+41866-9589,PF,Udonis,Udonis Haslem,Haslem,4.300000191,2,3500,NY@MIA,MIA,NY,,,,0,,,,,,,,,
+41866-15684,SG,Victor,Victor Oladipo,Oladipo,36.8722229,36,7400,SAC@IND,IND,SAC,O,Knee,,0,,,,,,,,,
+41866-110881,C,Vincent,Vincent Poirier,Poirier,5.166666667,9,3500,DET@BOS,BOS,DET,O,Finger,,0,,,,,,,,,
+41866-117285,SF,Vlatko,Vlatko Cancar,Cancar,0,1,3500,MIN@DEN,DEN,MIN,,,,0,,,,,,,,,
+41866-9956,SG,Wayne,Wayne Ellington,Ellington,8.044444614,18,3500,NY@MIA,NY,MIA,O,Achilles,,0,,,,,,,,,
+41866-85466,PF,Wenyen,Wenyen Gabriel,Gabriel,5.585714068,7,3500,SAC@IND,SAC,IND,,,,0,,,,,,,,,
+41866-48940,SF,Wes,Wes Iwundu,Iwundu,8.635714395,14,3500,ORL@POR,ORL,POR,,,,0,,,,,,,,,
+41866-23772,PG,Yogi,Yogi Ferrell,Ferrell,10.64545441,22,3500,SAC@IND,SAC,IND,,,,0,,,,,,,,,
+41866-85238,SG,Yuta,Yuta Watanabe,Watanabe,3.75,4,3500,MEM@CLE,MEM,CLE,,,,0,,,,,,,,,
+41866-80815,PF,Zach,Zach Collins,Collins,16.80000051,3,3500,ORL@POR,POR,ORL,O,Shoulder,,0,,,,,,,,,
+41866-84672,SG,Zhaire,Zhaire Smith,Smith,12.76666641,6,3500,DAL@PHI,PHI,DAL,,,,0,,,,,,,,,
+41866-110310,PF,Zion,Zion Williamson,Williamson,0,0,3500,NO@GS,NO,GS,O,Knee,,0,,,,,,,,,
+41866-117305,PF,Zylan,Zylan Cheatham,Cheatham,3.049999952,2,3500,NO@GS,NO,GS,,,,0,,,,,,,,,

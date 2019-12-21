@@ -1,0 +1,134 @@
+Id,Position,First Name,Nickname,Last Name,FPPG,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details,Tier,Min Deviation,Max Deviation,Min Exposure,Max Exposure,Name,Min,Ur,Fd,Value
+41843-40199,SF,Giannis,Giannis Antetokounmpo,Antetokounmpo,64.71,27,11200,LAL@MIL,MIL,LAL,,,,,,,,Giannis Antetokounmpo,33.3,41.68,64.71,5.777678571
+41843-9644,SG,James,James Harden,Harden,56.32,27,11400,HOU@LAC,HOU,LAC,,,,,,,,James Harden,37.5,35.65,56.32,4.940350877
+41843-66113,SG,Donovan,Donovan Mitchell,Mitchell,43.64,27,8600,UTA@ATL,UTA,ATL,,,,,,,,Donovan Mitchell,35.2,33.89,43.64,5.074418605
+41843-84671,PG,Trae,Trae Young,Young,49.62,27,9900,UTA@ATL,ATL,UTA,,,,,,,,Trae Young,36,33.47,49.62,5.012121212
+41843-9642,PG,Russell,Russell Westbrook,Westbrook,48.06,24,9300,HOU@LAC,HOU,LAC,,,,,,,,Russell Westbrook,35.7,33.14,48.06,5.167741935
+41843-14513,PF,Kawhi,Kawhi Leonard,Leonard,50.78,21,9400,HOU@LAC,LAC,HOU,,,,,,,,Kawhi Leonard,33.5,32.97,50.78,5.40212766
+41843-9488,SF,LeBron,LeBron James,James,47.88,28,10300,LAL@MIL,LAL,MIL,,,,,,,,LeBron James,35.5,32.22,47.88,4.648543689
+41843-15542,PG,Spencer,Spencer Dinwiddie,Dinwiddie,39.46,27,8000,BKN@SA,BKN,SA,,,,,,,,Spencer Dinwiddie,33.6,31.5,39.46,4.9325
+41843-15755,PF,Anthony,Anthony Davis,Davis,52.12,26,10200,LAL@MIL,LAL,MIL,,,,,,,,Anthony Davis,35.1,30.45,52.12,5.109803922
+41843-12341,SF,Paul,Paul George,George,43.54,18,9100,HOU@LAC,LAC,HOU,,,,,,,,Paul George,33.5,29.35,43.54,4.784615385
+41843-14530,SF,Bojan,Bojan Bogdanovic,Bogdanovic,34.8,26,6600,UTA@ATL,UTA,ATL,,,,,,,,Bojan Bogdanovic,34.3,27.93,34.8,5.272727273
+41843-9662,SG,Lou,Lou Williams,Williams,28.74,27,5500,HOU@LAC,LAC,HOU,,,,,,,,Lou Williams,26.2,27.64,28.74,5.225454545
+41843-16261,SG,Khris,Khris Middleton,Middleton,33.69,21,6400,LAL@MIL,MIL,LAL,,,,,,,,Khris Middleton,28.9,25.93,33.69,5.2640625
+41843-9714,SG,DeMar,DeMar DeRozan,DeRozan,37.72,26,7000,BKN@SA,SA,BKN,,,,,,,,DeMar DeRozan,34.6,25.36,37.72,5.388571429
+41843-42550,PF,Jabari,Jabari Parker,Parker,27.4,28,5300,UTA@ATL,ATL,UTA,,,,,,,,Jabari Parker,25.7,23.55,27.4,5.169811321
+41843-9688,PF,LaMarcus,LaMarcus Aldridge,Aldridge,38.16,24,7600,BKN@SA,SA,BKN,,,,,,,,LaMarcus Aldridge,32.9,22.63,38.16,5.021052632
+41843-67708,PG,Dejounte,Dejounte Murray,Murray,28.05,23,6600,BKN@SA,SA,BKN,,,,,,,,Dejounte Murray,27.8,22.63,28.05,4.25
+41843-23776,C,Montrezl,Montrezl Harrell,Harrell,29.28,29,6500,HOU@LAC,LAC,HOU,,,,,,,,Montrezl Harrell,25.4,22.11,29.28,4.504615385
+41843-23572,SF,Taurean,Taurean Prince,Prince,28.66,27,5400,BKN@SA,BKN,SA,,,,,,,,Taurean Prince,31.7,21.84,28.66,5.307407407
+41843-9577,SF,Rudy,Rudy Gay,Gay,23.17,26,4700,BKN@SA,SA,BKN,,,,,,,,Rudy Gay,22.9,20.58,23.17,4.929787234
+41843-16363,SF,Joe,Joe Harris,Harris,25.07,27,5000,BKN@SA,BKN,SA,,,,,,,,Joe Harris,31.9,19.71,25.07,5.014
+41843-110339,SF,Cam,Cam Reddish,Reddish,22.84,25,3900,UTA@ATL,ATL,UTA,,,,,,,,Cam Reddish,30,19.14,22.84,5.856410256
+41843-80821,PF,Jarrett,Jarrett Allen,Allen,32.88,27,6100,BKN@SA,BKN,SA,,,,,,,,Jarrett Allen,27.6,18.29,32.88,5.390163934
+41843-40203,C,Rudy,Rudy Gobert,Gobert,43.48,25,7800,UTA@ATL,UTA,ATL,,,,,,,,Rudy Gobert,34,17.97,43.48,5.574358974
+41843-110338,SF,De'Andre,De'Andre Hunter,Hunter,23.78,27,4800,UTA@ATL,ATL,UTA,,,,,,,,De'Andre Hunter,32.7,17.96,23.78,4.954166667
+41843-59318,SF,Joe,Joe Ingles,Ingles,31.49,27,5600,UTA@ATL,UTA,ATL,,,,,,,,Joe Ingles,31.6,17.46,31.49,5.623214286
+41843-11074,SG,Garrett,Garrett Temple,Temple,24.82,27,4700,BKN@SA,BKN,SA,,,,,,,,Garrett Temple,32.4,17.27,24.82,5.280851064
+41843-49675,PG,Derrick,Derrick White,White,21.43,24,4300,BKN@SA,SA,BKN,,,,,,,,Derrick White,22.9,17.07,21.43,4.98372093
+41843-9703,PG,George,George Hill,Hill,21.19,26,4000,LAL@MIL,MIL,LAL,,,,,,,0,George Hill,22.9,16.67,21.19,5.2975
+41843-9455,PG,Rajon,Rajon Rondo,Rondo,21.96,16,4600,LAL@MIL,LAL,MIL,,,,,,,,Rajon Rondo,24,16.49,21.96,4.773913043
+41843-84704,SG,Kevin,Kevin Huerter,Huerter,25.82,17,4800,UTA@ATL,ATL,UTA,,,,,,,,Kevin Huerter,30,16.39,25.82,5.379166667
+41843-15727,SG,Ben,Ben McLemore,McLemore,20.61,27,4200,HOU@LAC,HOU,LAC,,,,,,,0,Ben McLemore,30,16.37,20.61,4.907142857
+41843-9621,C,Brook,Brook Lopez,Lopez,21.07,26,4500,LAL@MIL,MIL,LAL,,,,,,,0,Brook Lopez,23.8,15.75,21.07,4.682222222
+41843-55059,C,Clint,Clint Capela,Capela,41.2,23,9100,HOU@LAC,HOU,LAC,,,,,,,,Clint Capela,34.1,15.67,41.2,4.527472527
+41843-84681,SG,Donte,Donte DiVincenzo,DiVincenzo,22.11,25,5400,LAL@MIL,MIL,LAL,,,,,,,0,Donte Divincenzo,25.9,14.82,22.11,4.094444444
+41843-9561,C,DeAndre,DeAndre Jordan,Jordan,22.23,24,4700,BKN@SA,BKN,SA,,,,,,,0,DeAndre Jordan,20.6,14.73,22.23,4.729787234
+41843-23294,SF,Danuel,Danuel House,House,21.23,21,4300,HOU@LAC,HOU,LAC,,,,,,,,Danuel House,31.4,13.26,21.23,4.937209302
+41843-12474,PG,Patrick,Patrick Beverley,Beverley,23.63,25,4300,HOU@LAC,LAC,HOU,,,,,,,,Patrick Beverley,27.6,12.26,23.63,5.495348837
+41843-18338,PF,Royce,Royce O'Neale,O'Neale,21.89,27,4300,UTA@ATL,UTA,ATL,,,,,,,0,Royce O'Neale,31.8,10.78,21.89,5.090697674
+41843-23407,PF,P.J.,P.J. Tucker,Tucker,23.53,27,4700,HOU@LAC,HOU,LAC,,,,,,,0,P.J. Tucker,34.3,10.34,23.53,5.006382979
+41843-23981,PG,Alex,Alex Caruso,Caruso,14.08076947,26,3900,LAL@MIL,LAL,MIL,,,,,,,0,,,,,
+41843-15814,C,Alex,Alex Len,Len,24.58,27,4300,UTA@ATL,ATL,UTA,,,,,,,0,,,,,
+41843-15501,SG,Allen,Allen Crabbe,Crabbe,11.50625038,16,3500,UTA@ATL,ATL,UTA,,,,,,,0,,,,,
+41843-111492,PF,Amir,Amir Coffey,Coffey,0,0,3500,HOU@LAC,LAC,HOU,,,,,,,0,,,,,
+41843-15592,PG,Austin,Austin Rivers,Rivers,15.39599976,25,3800,HOU@LAC,HOU,LAC,,,,,,,0,,,,,
+41843-12334,SG,Avery,Avery Bradley,Bradley,16.60714286,14,3700,LAL@MIL,LAL,MIL,,,,,,,0,,,,,
+41843-96763,PG,Brandon,Brandon Goodwin,Goodwin,-1,2,3500,UTA@ATL,ATL,UTA,,,,,,,0,,,,,
+41843-110329,PF,Bruno,Bruno Fernando,Fernando,9.633333559,27,3500,UTA@ATL,ATL,UTA,,,,,,,0,,,,,
+41843-23788,SG,Bryn,Bryn Forbes,Forbes,18.66538415,26,3900,BKN@SA,SA,BKN,,,,,,,0,,,,,
+41843-101266,SG,Cameron,Cameron Reynolds,Reynolds,8.984210366,19,3500,LAL@MIL,MIL,LAL,,,,,,,0,,,,,
+41843-23798,SG,Caris,Caris LeVert,LeVert,27.66666667,9,5400,BKN@SA,BKN,SA,GTD,Thumb,,,,,0,,,,,
+41843-14537,SF,Chandler,Chandler Parsons,Parsons,8.550000191,4,3500,UTA@ATL,ATL,UTA,GTD,Illness,,,,,0,,,,,
+41843-117290,SG,Charles,Charles Brown,Brown,3.400000095,4,3500,UTA@ATL,ATL,UTA,,,,,,,0,,,,,
+41843-84701,C,Chimezie,Chimezie Metu,Metu,6.366666794,6,3500,BKN@SA,SA,BKN,,,,,,,0,,,,,
+41843-110909,PG,Chris,Chris Clemons,Clemons,7.25263174,19,3800,HOU@LAC,HOU,LAC,,,,,,,0,,,,,
+41843-58295,PF,D.J.,D.J. Wilson,Wilson,8.621428353,14,3500,LAL@MIL,MIL,LAL,,,,,,,0,,,,,
+41843-41082,C,Damian,Damian Jones,Jones,16.47037082,27,3600,UTA@ATL,ATL,UTA,,,,,,,0,,,,,
+41843-9758,SG,Danny,Danny Green,Green,18.91785758,28,3800,LAL@MIL,LAL,MIL,,,,,,,0,,,,,
+41843-55055,PG,Dante,Dante Exum,Exum,4.354545593,11,3500,UTA@ATL,UTA,ATL,,,,,,,0,,,,,
+41843-42733,SG,David,David Nwaba,Nwaba,11.34736874,19,3900,BKN@SA,BKN,SA,GTD,Ankle,,,,,0,,,,,
+41843-49336,SG,DeAndre',DeAndre' Bembry,Bembry,18.61851897,27,3500,UTA@ATL,ATL,UTA,,,,,,,0,,,,,
+41843-12362,C,DeMarcus,DeMarcus Cousins,Cousins,37.49666748,30,3500,LAL@MIL,LAL,MIL,O,Knee,,,,,0,,,,,
+41843-9787,SF,DeMarre,DeMarre Carroll,Carroll,7.254545732,11,3500,BKN@SA,SA,BKN,,,,,,,0,,,,,
+41843-40561,PG,Derrick,Derrick Walton,Walton,5.238461421,13,3500,HOU@LAC,LAC,HOU,,,,,,,0,,,,,
+41843-117301,PF,Devontae,Devontae Cacok,Cacok,0,0,3500,LAL@MIL,LAL,MIL,,,,,,,0,,,,,
+41843-70819,PF,Dragan,Dragan Bender,Bender,8.96666654,3,3500,LAL@MIL,MIL,LAL,GTD,Ankle,,,,,0,,,,,
+41843-97263,C,Drew,Drew Eubanks,Eubanks,7.150000095,4,3600,BKN@SA,SA,BKN,,,,,,,0,,,,,
+41843-9660,C,Dwight,Dwight Howard,Howard,25.34,28,4300,LAL@MIL,LAL,MIL,,,,,,,0,,,,,
+41843-84698,SF,Dzanan,Dzanan Musa,Musa,9.29523795,21,3900,BKN@SA,BKN,SA,,,,,,,0,,,,,
+41843-12365,PF,Ed,Ed Davis,Davis,9.806667074,15,3500,UTA@ATL,UTA,ATL,,,,,,,0,,,,,
+41843-63124,PG,Emmanuel,Emmanuel Mudiay,Mudiay,13.32083384,24,4300,UTA@ATL,UTA,ATL,,,,,,,0,,,,,
+41843-12355,PG,Eric,Eric Bledsoe,Bledsoe,31.04230675,26,6700,LAL@MIL,MIL,LAL,O,Lower leg,,,,,0,,,,,
+41843-9556,SF,Eric,Eric Gordon,Gordon,15.32222154,9,3900,HOU@LAC,HOU,LAC,O,Knee,,,,,0,,,,,
+41843-9598,PF,Ersan,Ersan Ilyasova,Ilyasova,16.85599976,25,3600,LAL@MIL,MIL,LAL,,,,,,,0,,,,,
+41843-12359,SG,Evan,Evan Turner,Turner,11.39333293,15,3600,UTA@ATL,ATL,UTA,,,,,,,0,,,,,
+41843-49114,PG,Frank,Frank Mason,Mason,4.399999936,3,3500,LAL@MIL,MIL,LAL,,,,,,,0,,,,,
+41843-101331,PF,Gary,Gary Clark,Clark,9.483333588,12,3500,HOU@LAC,HOU,LAC,,,,,,,0,,,,,
+41843-23156,PF,Georges,Georges Niang,Niang,7.247618902,21,3500,UTA@ATL,UTA,ATL,,,,,,,0,,,,,
+41843-9849,SF,Gerald,Gerald Green,Green,14.77260307,73,3500,HOU@LAC,HOU,LAC,O,Foot,,,,,0,,,,,
+41843-66455,PF,Henry,Henry Ellenson,Ellenson,2.26666673,3,3500,BKN@SA,BKN,SA,,,,,,,0,,,,,
+41843-80825,PF,Isaiah,Isaiah Hartenstein,Hartenstein,9.411110772,9,3500,HOU@LAC,HOU,LAC,,,,,,,0,,,,,
+41843-70827,C,Ivica,Ivica Zubac,Zubac,20.02068881,29,4100,HOU@LAC,LAC,HOU,,,,,,,0,,,,,
+41843-58378,C,Jakob,Jakob Poeltl,Poeltl,20.21153846,26,3900,BKN@SA,SA,BKN,,,,,,,0,,,,,
+41843-15405,PF,JaMychal,JaMychal Green,Green,17.77272727,22,3900,HOU@LAC,LAC,HOU,GTD,Back,,,,,0,,,,,
+41843-9677,SF,Jared,Jared Dudley,Dudley,5.178947449,19,3500,LAL@MIL,LAL,MIL,,,,,,,0,,,,,
+41843-110308,SF,Jarrell,Jarrell Brantley,Brantley,5.650000095,2,3500,UTA@ATL,UTA,ATL,,,,,,,0,,,,,
+41843-9739,C,JaVale,JaVale McGee,McGee,30.97,28,4300,LAL@MIL,LAL,MIL,,,,,,,0,,,,,
+41843-9648,PF,Jeff,Jeff Green,Green,13.38148103,27,3500,UTA@ATL,UTA,ATL,,,,,,,0,,,,,
+41843-84677,PG,Jerome,Jerome Robinson,Robinson,8.045833588,24,3500,HOU@LAC,LAC,HOU,,,,,,,0,,,,,
+41843-66236,PF,John,John Collins,Collins,37.56000061,5,3500,UTA@ATL,ATL,UTA,O,Suspension,,,,,0,,,,,
+41843-41597,PF,Johnathan,Johnathan Motley,Motley,3.974999905,4,3500,HOU@LAC,LAC,HOU,,,,,,,0,,,,,
+41843-110327,PG,Justin,Justin Wright-Foreman,Wright-Foreman,0,0,3500,UTA@ATL,UTA,ATL,,,,,,,0,,,,,
+41843-117289,PF,Juwan,Juwan Morgan,Morgan,0.466666659,3,3500,UTA@ATL,UTA,ATL,,,,,,,0,,,,,
+41843-110347,SF,Keldon,Keldon Johnson,Johnson,0,1,3500,BKN@SA,SA,BKN,,,,,,,0,,,,,
+41843-15636,SG,Kentavious,Kentavious Caldwell-Pope,Caldwell-Pope,15.88214329,28,3900,LAL@MIL,LAL,MIL,,,,,,,0,,,,,
+41843-84725,PF,Kostas,Kostas Antetokounmpo,Antetokounmpo,0.600000024,2,3500,LAL@MIL,LAL,MIL,,,,,,,0,,,,,
+41843-9870,SG,Kyle,Kyle Korver,Korver,10.33043505,23,3700,LAL@MIL,MIL,LAL,,,,,,,0,,,,,
+41843-58377,PF,Kyle,Kyle Kuzma,Kuzma,16.75500031,20,3900,LAL@MIL,LAL,MIL,O,Ankle,,,,,0,,,,,
+41843-14498,PG,Kyrie,Kyrie Irving,Irving,48.29999889,11,9200,BKN@SA,BKN,SA,O,Shoulder,,,,,0,,,,,
+41843-84724,PG,Landry,Landry Shamet,Shamet,13.72499975,12,3600,HOU@LAC,LAC,HOU,,,,,,,0,,,,,
+41843-84702,SG,Lonnie,Lonnie Walker,Walker,8.005263479,19,3500,BKN@SA,SA,BKN,,,,,,,0,,,,,
+41843-110640,PF,Luka,Luka Samanic,Samanic,0,0,3500,BKN@SA,SA,BKN,,,,,,,0,,,,,
+41843-9715,SG,Marco,Marco Belinelli,Belinelli,9.604166667,24,3500,BKN@SA,SA,BKN,,,,,,,0,,,,,
+41843-16178,SF,Maurice,Maurice Harkless,Harkless,16.51034441,29,4000,HOU@LAC,LAC,HOU,,,,,,,0,,,,,
+41843-110355,SF,Mfiondu,Mfiondu Kabengele,Kabengele,4.322222392,9,3500,HOU@LAC,LAC,HOU,,,,,,,0,,,,,
+41843-23589,SG,Michael,Michael Frazier,Frazier,0,0,3500,HOU@LAC,HOU,LAC,,,,,,,0,,,,,
+41843-9575,PG,Mike,Mike Conley,Conley,26.35,22,4800,UTA@ATL,UTA,ATL,O,Hamstring,,,,,0,,,,,
+41843-110324,SG,Miye,Miye Oni,Oni,0.066666668,3,3500,UTA@ATL,UTA,ATL,,,,,,,0,,,,,
+41843-9512,C,,Nene,Nene,10.13333348,42,3500,HOU@LAC,HOU,LAC,O,Hip,,,,,0,,,,,
+41843-110354,PF,Nicolas,Nicolas Claxton,Claxton,9.10000017,9,3500,BKN@SA,BKN,SA,O,Hamstring,,,,,0,,,,,
+41843-111620,PG,Nigel,Nigel Williams-Goss,Williams-Goss,1.342857088,7,3500,UTA@ATL,UTA,ATL,,,,,,,0,,,,,
+41843-15993,SG,Pat,Pat Connaughton,Connaughton,14.18461492,26,3500,LAL@MIL,MIL,LAL,,,,,,,0,,,,,
+41843-12340,PF,Patrick,Patrick Patterson,Patterson,10.71538485,26,3500,HOU@LAC,LAC,HOU,,,,,,,0,,,,,
+41843-9939,PG,Patty,Patty Mills,Mills,21.21,26,3900,BKN@SA,SA,BKN,,,,,,,0,,,,,
+41843-15582,PG,Quinn,Quinn Cook,Cook,8.880000305,20,3500,LAL@MIL,LAL,MIL,,,,,,,0,,,,,
+41843-110348,SG,Quinndary,Quinndary Weatherspoon,Weatherspoon,0,0,3500,BKN@SA,SA,BKN,,,,,,,0,,,,,
+41843-9873,C,Robin,Robin Lopez,Lopez,10.84999956,28,3600,LAL@MIL,MIL,LAL,,,,,,,0,,,,,
+41843-84700,PF,Rodions,Rodions Kurucs,Kurucs,6.450000127,12,3500,BKN@SA,BKN,SA,,,,,,,0,,,,,
+41843-15744,SG,Rodney,Rodney McGruder,McGruder,10.4333335,18,3900,HOU@LAC,LAC,HOU,,,,,,,0,,,,,
+41843-40262,SG,Sterling,Sterling Brown,Brown,14.425,20,3500,LAL@MIL,MIL,LAL,,,,,,,0,,,,,
+41843-110337,SG,Talen,Talen Horton-Tucker,Horton-Tucker,1.5,1,3500,LAL@MIL,LAL,MIL,,,,,,,0,,,,,
+41843-110315,SG,Terance,Terance Mann,Mann,6.318181818,22,3500,HOU@LAC,LAC,HOU,,,,,,,0,,,,,
+41843-9647,SF,Thabo,Thabo Sefolosha,Sefolosha,6.913636641,22,3500,HOU@LAC,HOU,LAC,,,,,,,0,,,,,
+41843-111372,SF,Thanasis,Thanasis Antetokounmpo,Antetokounmpo,4.320000076,5,3500,LAL@MIL,MIL,LAL,,,,,,,0,,,,,
+41843-85521,SG,Theo,Theo Pinson,Pinson,10.88888889,18,3500,BKN@SA,BKN,SA,,,,,,,0,,,,,
+41843-70825,SG,Timothe,Timothe Luwawu-Cabarrot,Luwawu-Cabarrot,6.419999695,5,3500,BKN@SA,BKN,SA,,,,,,,0,,,,,
+41843-80823,C,Tony,Tony Bradley,Bradley,10.11666701,18,3500,UTA@ATL,UTA,ATL,,,,,,,0,,,,,
+41843-58461,PF,Trey,Trey Lyles,Lyles,14.19615408,26,3500,BKN@SA,SA,BKN,,,,,,,0,,,,,
+41843-20805,SG,Troy,Troy Daniels,Daniels,7.695238386,21,3500,LAL@MIL,LAL,MIL,,,,,,,0,,,,,
+41843-9473,C,Tyson,Tyson Chandler,Chandler,7.155555725,18,3500,HOU@LAC,HOU,LAC,,,,,,,0,,,,,
+41843-9654,SF,Vince,Vince Carter,Carter,11.16956495,23,3700,UTA@ATL,ATL,UTA,,,,,,,0,,,,,
+41843-9799,SG,Wesley,Wesley Matthews,Matthews,13.98928615,28,3600,LAL@MIL,MIL,LAL,,,,,,,0,,,,,
+41843-9636,SF,Wilson,Wilson Chandler,Chandler,16.70000076,2,3500,BKN@SA,BKN,SA,,,,,,,0,,,,,
